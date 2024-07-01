@@ -10,7 +10,7 @@ body {
   justify-content: center;
 
   background-size: 1000px;
-  background-image: url(/images/bg.jpg);
+  background-image: url("/images/bg.jpg");
   background-repeat: no-repeat ;
   background-position: center;
   background-size: cover;
@@ -19,7 +19,7 @@ body {
 }
 
 .paper {
-  background-image: url(/images/bg2.jpeg);
+  background-image: url("/images/bg2.jpeg");
   background-size: 1500px;
   background-position: center center;
   padding: 20px 100px;
